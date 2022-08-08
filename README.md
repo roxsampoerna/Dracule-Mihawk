@@ -18,7 +18,7 @@
 
 ---
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NzrlAfndi/Dracule-Mihawk)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roxsampoerna/Dracule-Mihawk)
 
 ---
 
